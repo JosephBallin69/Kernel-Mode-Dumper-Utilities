@@ -12,8 +12,8 @@ Features:
 
 How to use:
 1. Load the driver using kdmapper
-2. start KMDU.exe
-3. profit
+2. Start KMDU.exe
+3. Profit
 
 Feel free to submit issues, suggestions, or pull requests to improve the tool.
 
